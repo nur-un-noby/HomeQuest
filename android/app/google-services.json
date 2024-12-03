@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "708186605626",
+    "project_id": "home-quest-a86d6",
+    "storage_bucket": "home-quest-a86d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708186605626:android:5cec6d02688036418c0d03",
+        "android_client_info": {
+          "package_name": "com.example.realstate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708186605626-uig6mslj9eqcgg2icj76avaponkpjjj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realstate",
+            "certificate_hash": "6bcefdba0705b6017f51cdb8b4309242dccadf5b"
+          }
+        },
+        {
+          "client_id": "708186605626-evqm90ihahhf65htm6ht85l3q280qerh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw1OHJwe_9iTDIa_4A1A7gPb5f2nZpHhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708186605626-evqm90ihahhf65htm6ht85l3q280qerh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "708186605626-9b91ajh442abrsfh92atfovtios6oug9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.realstate"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708186605626:android:683b23c799ded4bc8c0d03",
+        "android_client_info": {
+          "package_name": "com.example.realstateclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708186605626-evqm90ihahhf65htm6ht85l3q280qerh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw1OHJwe_9iTDIa_4A1A7gPb5f2nZpHhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708186605626-evqm90ihahhf65htm6ht85l3q280qerh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "708186605626-9b91ajh442abrsfh92atfovtios6oug9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.realstate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
